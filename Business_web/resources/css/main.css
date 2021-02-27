@@ -1,0 +1,14 @@
+.svg-home{
+    width: calc(100vw - 20px);
+    position: absolute;
+    height: calc(100vh - 20px);
+    top: 50%;
+    transform: translate(-50%,-50%);
+    left: 50%;
+}
+.footer-main{
+    bottom: 0;
+    position: absolute;
+    left: 10px;
+    font-size: 10px;
+}
